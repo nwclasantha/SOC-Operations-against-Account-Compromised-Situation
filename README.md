@@ -1,5 +1,7 @@
 ### Article: Comprehensive Incident Response Workflow for Account Compromise
 
+![image](https://github.com/user-attachments/assets/de766f54-6ed2-4ccb-97aa-b9c68dcc47e2)
+
 ---
 
 #### Introduction
